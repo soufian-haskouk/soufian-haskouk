@@ -32,11 +32,11 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 <img src="https://skillicons.dev/icons?i=python,java,php,sql" />
 
 ### 🤖 AI, ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,php,sql,pytorch,numpy,opencv" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,java,php,sql,pytorch,numpy,opencv" />
 <img src="https://skillicons.dev/icons?i=docker" />
 
 ### 📊 Databases & BI
