@@ -1,0 +1,42 @@
+name: Generate Animation
+
+on:
+  # تشغيل الأدات تلقائياً كل 24 ساعة
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # السماح بتشغيلها يدوياً من تبويب Actions
+  workflow_dispatch:
+  
+  # تشغيلها تلقائياً عند كل تحديث في الـ main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: soufian-haskouk
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      
+      - name: Push to GitHub Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
