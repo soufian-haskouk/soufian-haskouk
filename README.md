@@ -77,7 +77,7 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 
 | 🎓 **Degree / Program** | 📅 **Period** | 🏢 **Institution** |
 |:---:|:---:|:---:|
-| 🎓 Master SIDI (AI & Data Science) | 2024 - Present | **University Mohammed V** |
+| 🎓 Master SIDI (BI&AI & Data ) | 2025 - Present | **University Mohammed V** |
 | 🏆 BDIF AI Engineer Scholar | 2026 | **Bechem Network & DataCamp** |
 | 💻 Bachelor in Software Engineering | 2021 - 2024 | **Faculty of Sciences** |
 
@@ -87,7 +87,7 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 
 <div align="center">
 
-🎓 **Final-Year PFE Internship in AI / Data Science** *(Starting Mid-February 2027)*  
+🎓 **Final-Year PFE Internship in AI&BI / Data Science** *(Starting Mid-February 2027)*  
 *Looking to contribute to cutting-edge machine learning and data engineering projects.*
 
 </div>
@@ -98,7 +98,7 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufian-haskouk/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soufian-haskouk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam_kouider@um5.ac.ma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soufianhaskouk@gmail.com)
 
 </div>
 
