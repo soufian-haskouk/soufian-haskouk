@@ -3,6 +3,7 @@
 🔭 I am currently pursuing my Master's degree in **Decision Support Information Systems & Imaging (SIDI)** at FSTE, Moulay Ismail University. My core expertise revolves around **Data Science, Machine Learning Architectures, and IoT Network Security**.
 
 ---
+
 ```mermaid
 graph TD
     %% Node Definitions
@@ -25,7 +26,7 @@ graph TD
     style F fill:#dd6b20,stroke:#ed8936,color:#fff,stroke-width:2px
     style G fill:#38a169,stroke:#48bb78,color:#fff,stroke-width:2px
     style H fill:#38a169,stroke:#48bb78,color:#fff,stroke-width:2px
-
+```
 ### 💻 Tech Stack & Tools:
 * **Languages:** Python, SQL, PHP, Java
 * **Data Science & ML:** LSTM, XGBoost, Random Forest, SMOTE, SelectKBest, Scikit-Learn, TensorFlow / Keras
