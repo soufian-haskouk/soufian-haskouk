@@ -5,12 +5,12 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Cloud-blue?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval-purple?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-Autonomous-green?style=for-the-badge&logo=chatbot&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-Protocol-black?style=for-the-badge&logo=json&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/LLMOps-Deployment-orange?style=for-the-badge&logo=docker&logoColor=white" alt="LLMOps" />
-  <img src="https://img.shields.io/badge/Evaluations-Metrics-success?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Evaluations" />
+  <img src="https://img.shields.io/badge/LLMs-007EC6?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-6f42c1?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-2ea44f?style=for-the-badge&logo=chatbot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-24292e?style=for-the-badge&logo=json&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/LLMOps-d73a49?style=for-the-badge&logo=docker&logoColor=white" alt="LLMOps" />
+  <img src="https://img.shields.io/badge/Evaluations-6f42c1?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Evaluations" />
 </p>
 
 
