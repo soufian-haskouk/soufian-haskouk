@@ -29,18 +29,17 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,php,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,php,mysql" />
 
 ### 🤖 AI, ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv,docker" />
+<br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<br>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-<img src="https://skillicons.dev/icons?i=python,java,php,sql,pytorch,numpy,opencv" />
-<img src="https://skillicons.dev/icons?i=docker" />
 
-### 📊 Databases & BI
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+### 📊 Databases & BI & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<br>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
