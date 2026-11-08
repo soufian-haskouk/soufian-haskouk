@@ -40,8 +40,7 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 ### 📊 Databases & BI & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI Logo" />
 </div>
 
 ## 🚀 Featured Projects
