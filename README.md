@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Master+SIDI+Student+%7C+AI+%26+Data+Science;AI+Engineer+Scholarship+Recipient+%28BDIF%29;Building+Smart+Systems+%26+ML+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Master+SIDI+Student+%7C+AI+%26+BI+%26+Data+Science;Seeking+Final-Year+PFE+Internship+%28Feb+2027%29;Building+Smart+Systems+%26+ML+Pipelines" alt="Typing SVG" />
 </div>
 
 <br>
