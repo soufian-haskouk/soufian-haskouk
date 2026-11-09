@@ -43,7 +43,7 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" width="38" height="38" alt="Talend Logo" style="vertical-align: middle;" />
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI Logo" />
-<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-official.svg" height="40" alt="Jupyter Logo" style="vertical-align: middle;" />
+<img src="https://img.shields.io/badge/Jupyter-F37606?style=for-the-badge&logo=jupyter&logoColor=white" />
 &nbsp;&nbsp;
 </div>
 
