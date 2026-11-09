@@ -39,7 +39,7 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 
 ### 📊 Databases & BI & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=talend" />
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI Logo" />
 </div>
