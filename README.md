@@ -43,6 +43,7 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" width="38" height="38" alt="Talend Logo" style="vertical-align: middle;" />
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI Logo" />
+<img src="https://skillicons.dev/icons?i=python,java,php,mysql,pytorch,opencv,jupyter,docker,git,github,vscode" />
 </div>
 
 ## 🚀 Featured Projects
