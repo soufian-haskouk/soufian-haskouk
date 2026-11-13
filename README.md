@@ -18,6 +18,15 @@
 
 I'm a Master's student in **Computer Science (Master SIDI)** specializing in **Artificial Intelligence, Data Analytics, and Machine Learning**. Selected for the fully funded **BDIF Scholarship (Advanced AI Engineer Track)**, I build intelligent systems, predictive models, and data-driven solutions.
 
+## 🎯 Currently Seeking
+
+<div align="center">
+
+🎓 **Final-Year PFE Internship in AI&BI / Data Science** *(Starting Mid-February 2027)*  
+*Looking to contribute to cutting-edge machine learning and data engineering projects.*
+
+</div>
+
 ### 🎯 What I Focus On
 - 🤖 **Machine Learning & Deep Learning**: Hybrid models, LSTM, XGBoost, Random Forest
 - 🧠 **AI Agents & RAG**: Building domain-specific medical and inventory assistants
@@ -84,15 +93,6 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 | 🎓 Master SIDI (BI&AI & Data ) | 2025 - Present | **University Mohammed V** |
 | 🏆 BDIF AI Engineer Scholar | 2026 | **Bechem Network & DataCamp** |
 | 💻 Bachelor in Software Engineering | 2021 - 2024 | **Faculty of Sciences** |
-
-</div>
-
-## 🎯 Currently Seeking
-
-<div align="center">
-
-🎓 **Final-Year PFE Internship in AI&BI / Data Science** *(Starting Mid-February 2027)*  
-*Looking to contribute to cutting-edge machine learning and data engineering projects.*
 
 </div>
 
