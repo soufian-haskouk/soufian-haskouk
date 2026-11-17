@@ -79,7 +79,7 @@ I'm a Master's student in **Computer Science (Master SIDI)** specializing in **A
 ---
 
 ### 📈 SmartStock AI — Inventory Forecasting System (en cours)
-**Tech Stack:** `Python` `FastAPI` `Random Forest` `Agentic Workflows`  
+**Tech Stack:** `Python` `LSTM`  `FastAPI` `Random Forest` `Agentic Workflows`  
 **Key Features:** AI-driven inventory prediction and workflow automation using the UCI Online Retail dataset.
 
 </div>
